@@ -3,4 +3,5 @@
     <string name="rezultat">Rezultat</string>
     <string name="igrac1_rez">Igrač 1: 0</string>
     <string name="igrac2_rez">Igrač 2: 0</string>
+    <string name="reset">Reset</string>
 </resources>
