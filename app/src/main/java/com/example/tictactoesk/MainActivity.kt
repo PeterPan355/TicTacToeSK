@@ -65,6 +65,7 @@ class MainActivity : AppCompatActivity() {
             btn.text = "0"
         }
         countround++
+        p1playing = !p1playing
         // if(checkwin())
         // {
         //     if(p1playing) win(1)
